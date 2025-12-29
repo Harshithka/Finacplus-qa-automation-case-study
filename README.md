@@ -13,7 +13,6 @@
 - `playwright.config.js`: Playwright configuration
 - `book_details.txt`: Book details extracted from UI test
 - `user_id.txt`: User ID from API test
-
 ### 🚀 How to Run
 1. Install dependencies:
    ```bash
@@ -24,5 +23,4 @@ npx playwright show-report
 
 Output Files
 book_details.txt: Contains book title, author, publisher
-
 user_id.txt: Stores created user ID from API test
